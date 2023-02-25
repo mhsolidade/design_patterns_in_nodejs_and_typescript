@@ -35,3 +35,29 @@ All design patterns:
 - Strategy
 - Template Method
 - Visitor
+
+## Running locally based on tests
+
+Clone the project
+
+```bash
+  git clone https://github.com/mhsolidade/design_patterns_in_nodejs_and_typescript.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the tests
+
+```bash
+npm run test
+```
