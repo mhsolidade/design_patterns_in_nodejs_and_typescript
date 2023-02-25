@@ -1,6 +1,6 @@
 # Desing Patterns
 
-The goal of this project is to put into practice different types of design patterns.
+The goal of this project is to put into practice different types of design patterns. :smiley:
 
 All design patterns:
 
@@ -23,7 +23,6 @@ All design patterns:
     Proxy
 
 3 - Behavioral Patterns
-
     - :smiley: Chain of Responsibility
     :white_check_mark: Command
     Interpreter
