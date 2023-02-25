@@ -24,7 +24,7 @@ All design patterns:
 
 3 - Behavioral Patterns
 
-    :white_check_mark: Chain of Responsibility
+    - :smiley: Chain of Responsibility
     :white_check_mark: Command
     Interpreter
     Iterator
