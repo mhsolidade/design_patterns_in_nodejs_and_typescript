@@ -28,7 +28,7 @@ All design patterns:
 - :white_check_mark: Command
 - Interpreter
 - Iterator
-- Mediator
+- :white_check_mark: Mediator
 - Memento
 - Observer
 - State
@@ -47,7 +47,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd design_patterns_in_nodejs_and_typescript
 ```
 
 Install dependencies
