@@ -27,7 +27,7 @@ All design patterns:
 - :white_check_mark: Chain of Responsibility
 - :white_check_mark: Command
 - Interpreter
-- Iterator
+- :white_check_mark: Iterator
 - :white_check_mark: Mediator
 - Memento
 - Observer
