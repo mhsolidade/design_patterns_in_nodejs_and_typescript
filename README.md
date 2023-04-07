@@ -29,7 +29,7 @@ All design patterns:
 - :white_check_mark: Interpreter
 - :white_check_mark: Iterator
 - :white_check_mark: Mediator
-- Memento
+- :white_check_mark: Memento
 - Observer
 - State
 - Strategy
