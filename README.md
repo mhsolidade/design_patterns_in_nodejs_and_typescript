@@ -30,7 +30,7 @@ All design patterns:
 - :white_check_mark: Iterator
 - :white_check_mark: Mediator
 - :white_check_mark: Memento
-- Observer
+- :white_check_mark: Observer
 - State
 - Strategy
 - Template Method
